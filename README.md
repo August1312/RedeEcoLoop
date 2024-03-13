@@ -6,57 +6,24 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="/img/img-readme/moeda_verde.jpg" alt="Exemplo imagem">
+<img src="/img/img-readme/moeda_verde.jpg" style="border-radius: 50%;" alt="logo">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> A nossa missão é simplificar soluções de grande escala, e criar um elo economico entre insdustrias, sociedade Tranformando Redíduos em Riquezas Sustentáveis.
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [contrução] Pg-Inicio 1
+- [ ] Pg-Guia-Recicçagem 2
+- [ ] Pg-Dicas Sustentáveis 3
+- [ ] Pg-Eventos e Campanhas 4
+- [ ] Pg-Blog Notícias 5
 
-## 💻 Pré-requisitos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+## 📫 Contribuindo para <MoedaVerde>
 
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
-
-## 🚀 Instalando <nome_do_projeto>
-
-Para instalar o <nome_do_projeto>, siga estas etapas:
-
-Linux e macOS:
-
-```
-<comando_de_instalação>
-```
-
-Windows:
-
-```
-<comando_de_instalação>
-```
-
-## ☕ Usando <nome_do_projeto>
-
-Para usar <nome_do_projeto>, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
-
-## 📫 Contribuindo para <nome_do_projeto>
-
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir com <MoedaVerde>, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
@@ -74,25 +41,41 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="" width="100px;" alt="Foto"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Andre Amaral</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="" width="100px;" alt="Foto "/><br>
         <sub>
-          <b>Mark Zuckerberg</b>
+          <b>Matheus Augusto</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="" width="100px;" alt="Foto "/><br>
         <sub>
-          <b>Steve Jobs</b>
+          <b>Araceli Gasparetto</b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="" width="100px;" alt="Foto "/><br>
+        <sub>
+          <b>Danilo Silva</b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="" width="100px;" alt="Foto "/><br>
+        <sub>
+          <b>Sheila Botton</b>
         </sub>
       </a>
     </td>
