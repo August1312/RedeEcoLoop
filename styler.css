@@ -1,0 +1,87 @@
+/*************************************************************//* Body-Root-variaveis*//*************************************************************/
+:root {
+  --cor-bar-footer-menu: #185c37;
+  --cor-text-preto: #2c2c2c;
+  --cor-text-bar: wheat;
+  --cor-branca: #f0f0f0;
+  --cor-amarelo: #ffd700;
+  --cor-vermelho: #e41d1d;
+  --cor-roxo: #5C6181;
+  
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f1f1f1;
+}
+
+
+/*************************************************************//* Menu-Bar *//*************************************************************/
+.barra-menu {
+    background-color: var(--cor-bar-footer-menu);
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+.menu-logo img{
+  height: 50px;
+  width: auto;
+}
+.menu-logo {
+    display: flex;
+  }
+.menu-barrar li {
+  margin-right: 5px;
+}
+.menu-barrar ul {
+  list-style: none;
+  display: flex;
+}
+.menu-barrar li a {
+  color: var(--cor-text-bar);
+  text-decoration: none;
+  padding: 5px 10px;
+  display: block;
+  font-size: 18px;
+}
+.menu-barrar li a:hover {
+  background-color: var(--cor-branca);
+  color: var(--cor-text-preto);
+  -moz-box-shadow: 0 3px 10px 0 #ccc;
+  text-shadow: 0px 0px 5px #fff;
+  transition: background-color 0.3s ease;
+  border-radius: 50px;
+}
+
+
+/*************************************************************//* Footer  roda-pé *//*************************************************************/
+footer {
+  height: 30px;
+  position:static;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  background-color: var(--cor-bar-footer-menu);
+}
+footer p {
+  color: var(--cor-text-bar);
+}
+footer strong {
+  color: var(--cor-branca);
+}
+footer a {
+  text-decoration: none;
+}
+footer a strong:hover {
+  color: var(--cor-text-preto);
+background-color: var(--cor-branca);
+border-radius: 20%;
+}
+
+
