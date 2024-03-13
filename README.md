@@ -1,11 +1,5 @@
 # Moeda Verde
 
-![GitHub repo size]()
-![GitHub language count]()
-![GitHub forks]()
-![Bitbucket open issues]()
-![Bitbucket open pull requests]()
-
 <img src="/img/img-readme/moeda_verde.jpg" style="border-radius: 50%;" alt="logo">
 
 > A nossa missão é simplificar soluções de grande escala, e criar um elo economico entre insdustrias, sociedade Tranformando Redíduos em Riquezas Sustentáveis.
