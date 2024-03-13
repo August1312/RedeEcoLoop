@@ -14,7 +14,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [contrução] Pg-Inicio 1
+- [ contrução ] Pg-Inicio 1
 - [ ] Pg-Guia-Recicçagem 2
 - [ ] Pg-Dicas Sustentáveis 3
 - [ ] Pg-Eventos e Campanhas 4
