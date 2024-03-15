@@ -1,11 +1,5 @@
 # RedeEcoLoop
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
-
 
 > Em um mundo cada vez mais consciente da necessidade de preservação ambiental e inclusão social, a RedeEcoLoop surge como uma luz no fim do túnel. Fundada por um grupo de visionários comprometidos com a sustentabilidade e justiça social, esta empresa inovadora tem como missão transformar vidas enquanto preserva o planeta.
 
