@@ -1,18 +1,17 @@
-# Moeda Verde
+# RedeEcoLoop
 
-<img src="/img/img-readme/moeda_verde.jpg" style="border-radius: 50%;" alt="logo">
 
-> A nossa missão é simplificar soluções de grande escala, e criar um elo economico entre insdustrias, sociedade Tranformando Redíduos em Riquezas Sustentáveis.
+> Em um mundo cada vez mais consciente da necessidade de preservação ambiental e inclusão social, a RedeEcoLoop surge como uma luz no fim do túnel. Fundada por um grupo de visionários comprometidos com a sustentabilidade e justiça social, esta empresa inovadora tem como missão transformar vidas enquanto preserva o planeta.
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ contrução ] Pg-Inicio 1
-- [ ] Pg-Guia-Recicçagem 2
-- [ ] Pg-Dicas Sustentáveis 3
-- [ ] Pg-Eventos e Campanhas 4
-- [ ] Pg-Blog Notícias 5
+- [ contrução ] Pg-Sobre 1
+- [ ] Pg-Solução 2
+- [ ] Pg-Cooperativas 3
+- [ ] Pg-Parceiros 4
+- [ ] Pg-Relatório 5
 
 
 ## 📫 Contribuindo para <MoedaVerde>
