@@ -1,107 +1,20 @@
-/***************************************************************************//* CORES E VARIAVEIS ESTILOS *//*************************************************************************/
+/***************************************************************************/ /* CORES E VARIAVEIS ESTILOS */ /*************************************************************************/
 :root {
-  --cor-branca: #FFFFFF;
-  --cor-nav-bar: #2ECC71;
-  --cor-texto-corpo: #34495E ;
-  --cor-sub-titulos: #34495E;
-  --cor-titulos: #3498DB;
-  --cor-btn-destaque: #2ECC71;
-  --cor-btn-acao: #3498DB;
-  --cor-icone-principais: #34495E;
-  --cor-icone-destaque:  #55EFC4;
-  --cor-fundo-destaque: #55EFC4;
-
-
+  --cor-branca: #ffffff;
+  --cor-nav-bar: #2ecc71;
+  --cor-texto-corpo: #34495e;
+  --cor-sub-titulos: #34495e;
+  --cor-titulos: #3498db;
+  --cor-btn-destaque: #2ecc71;
+  --cor-btn-acao: #3498db;
+  --cor-icone-principais: #34495e;
+  --cor-icone-destaque: #55efc4;
+  --cor-fundo-destaque: #55efc4;
 }
-
-/* Reset de estilos */
-* {
+body {
+  display: flex;
+  flex-wrap: wrap;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
-/* Estilos Globais */
-body {
-  font-family: Arial, sans-serif;
-  background-color: #FFFFFF; /* Fundo branco */
-  color: #34495E; /* Texto cinza escuro */
-}
-
-.container {
-  width: 80%;
-  margin: 0 auto;
-  padding: 20px 0;
-}
-
-/* Estilos do Header */
-.header {
-  background-color: #2ECC71; /* Fundo verde */
-  padding: 10px 0;
-}
-
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.nav-menu {
-  list-style-type: none;
-}
-
-.nav-menu li {
-  display: inline-block;
-  margin-right: 20px;
-}
-
-.nav-menu li:last-child {
-  margin-right: 0;
-}
-
-.nav-menu a {
-  text-decoration: none;
-  color: #FFFFFF; /* Texto branco */
-}
-
-.logo {
-  color: #FFFFFF; /* Texto branco */
-}
-
-/* Estilos das Seções */
-.highlight-section {
-  background-color: #55EFC4; /* Fundo verde claro */
-  padding: 50px;
-  text-align: center;
-}
-.redeecoloop-section {
-  background-color: var(--cor-branca); /* Fundo verde claro */
-  border: solid 2px var(--cor-btn-acao);
-  padding: 30px;
-  text-align: center;
-}
-.redeecoloop-section h2 {
-  color: var(--cor-sub-titulos);
-  padding-bottom: 30px;
-}
-.redeecoloop-section p {
-  color: var(--cor-texto-corpo);
-}
-.btn {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #3498DB; /* Botão azul */
-  color: #FFFFFF; /* Texto branco */
-  text-decoration: none;
-  border-radius: 5px;
-}
-h1 {
-  color: var(--cor-titulos);
-}
-/* Estilos do Footer */
-.footer {
-  background-color: #34495E; /* Fundo cinza escuro */
-  color: #FFFFFF; /* Texto branco */
-  padding: 20px 0;
-  text-align: center;
-}
