@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relatorio</title>
+</head>
+
+<body>
+    <header>
+        <nav class="nav-bar">
+            <div class="logo">
+                <h1 class="logo">RedeEcoLoop</h1>
+            </div>
+            <div class="nav-menu">
+                <ul class="nav-menu">
+                    <li><a href="./index.html">Sobre</a></li>
+                    <li><a href="./solucao.html">Solução</a></li>
+                    <li><a href="./cooperativas.html">Cooperativa</a></li>
+                    <li><a href="./parceiros.html">Parceiros</a></li>
+                    <li><a href="./relatorio.html">Relatório</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h1>Relatório Informativo sobre Reciclagem</h1>
+            <div>
+                <H2>Calculo da Receita Gerada</H2>
+                <form action="">
+                    <h4>Dados Pessoais</h4>
+                    <label for="nome">Nome</label>
+                    <input type="text" name="nome" required placeholder="João da silva">
+                    <label for="mei">MEI</label>
+                    <input type="text" name="mei" id="ipInput" placeholder="000.000.000.00" required>
+                    <label for="Endereco">Endereço</label>
+                    <input type="text" name="endereco" placeholder="Rua paulo de nobrega">
+                    <form action="">
+                        <h4>Area Calculo</h4>
+                        <label for="material">Selecione material</label>
+                        <select name="material" id="">
+                            <option value="">Papel e Papelão</option>
+                            <option value="">Plástico</option>
+                            <option value="">Metais</option>
+                            <option value="">Vidro</option>
+                            <option value="">Eletrônicos</option>
+                        </select>
+                        <label for="peso">Peso</label>
+                        <input type="number" placeholder="25" name="peso">
+                        <label for="valor">Valor</label>
+                        <input type="number" placeholder="15.44">
+                        <input type="submit" value="Calcular">
+                    </form>
+                </form>
+            </div>
+            <div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Nome</th>
+                            <th>Mei</th>
+                            <th>Endereço</th>
+                            <th>Papel e Papelão</th>
+                            <th>Valor</th>
+                            <th>Plástico</th>
+                            <th>Valor</th>
+                            <th>Metais</th>
+                            <th>Valor</th>
+                            <th>Eletrônicos</th>
+                            <th>Valor</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>João</td>
+                            <td>00.000.000/0000-00</td>
+                            <td>Rua bragança</td>
+                            <td>24T</td>
+                            <td>R$:1240.50</td>
+                            <td>4T</td>
+                            <td>R$:5444.50</td>
+                            <td>9T</td>
+                            <td>R$:5444.50</td>
+                            <td>7T</td>
+                            <td>R$:5444.50</td>
+
+                        </tr>
+                        <tr>
+                            <td>Maria</td>
+                            <td>00.000.000/0000-00</td>
+                            <td>Rua Portugal</td>
+                            <td>34T</td>
+                            <td>R$:5444.50</td>
+                            <td>41T</td>
+                            <td>R$:4444.50</td>
+                            <td>19T</td>
+                            <td>R$:1444.50</td>
+                            <td>42T</td>
+                            <td>R$:544.50</td>
+                        </tr>
+                        <tr>
+                            <td>Carlos</td>
+                            <td>00.000.000/0000-00</td>
+                            <td> Rua Espanha</td>
+                            <td>14T</td>
+                            <td>R$:2554.50</td>
+                            <td>4T</td>
+                            <td>R$:544.50</td>
+                            <td>5T</td>
+                            <td>R$:1444.50</td>
+                            <td>72T</td>
+                            <td>R$:7444.50</td>
+
+                        </tr>
+                    </tbody>
+                </table>
+                <button>Gerar em PDF</button>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <div class="container">
+                <p>&copy; 2024 RedeEcoLoop. Todos os direitos reservados.</p>
+            </div>
+        </footer>
+
+
+    </main>
+
+    <script src="../scripts/teste.js"></script>
+</body>
+
+</html>
