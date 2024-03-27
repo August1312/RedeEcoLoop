@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <header>
+        <h1>RedeEcoLoop</h1>
+        <h2>Cadastro</h2>
+    </header>
+
+    <meta charset="UTF-8">
+    <title>RedeEcoLoop</title>
+    <style>
+        header {
+            background-color: #2ecc71;
+            text-align: left;
+            color: white;
+            padding: 10px;
+            margin-top: -30px;
+        }
+        header h1 {
+            margin-bottom: -10px;
+        }
+        .navbar {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #2ecc71;
+            margin-top: -30px;
+        }
+
+        .navbar li {
+            float: left;
+        }
+
+        .navbar li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        .navbar li a:hover {
+            background-color: #111;
+        }
+
+        .footer {
+            background-color: #2ecc71;
+            text-align: center;
+            padding: 10px;
+            color: white;
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <ul class="navbar">
+        <li><a href="#inicio">Início</a></li>
+        <li><a href="#guia">Guia da Reciclagem</a></li>
+        <li><a href="#dicas">Dicas Sustentáveis</a></li>
+        <li><a href="#evento">Evento e Campanha</a></li>
+        <li><a href="#blog">Cadastro</a></li>
+    </ul>
+
+    <div style="position: absolute; top: 150px; left: 100px;">
+        <h1>Quer fazer parte?</h1>
+        <p>Preencha o formulário abaixo</p>
+    </div>
+
+    <form style="position: absolute; top: 280px; left: 100px;">
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br><br>
+
+        <label for="cpf">CPF:</label><br>
+        <input type="text" id="cpf" name="cpf"><br><br>
+
+        <label for="mei">MEI:</label><br>
+        <input type="text" id="mei" name="mei"><br><br>
+
+        <label for="endereco">Endereço:</label><br>
+        <input type="text" id="endereco" name="endereco"><br><br>
+
+        <label for="bairro">Bairro:</label><br>
+        <input type="text" id="bairro" name="bairro"><br><br>
+
+        <label for="cidade">Cidade:</label><br>
+        <input type="text" id="cidade" name="cidade"><br><br>
+
+        <label for="quantidade">Quantidade de Resíduo Coletado:</label><br>
+        <input type="number" id="quantidade" name="quantidade"><br><br>
+
+        <label for="peso">Peso Total:</label><br>
+        <input type="number" id="peso" name="peso"><br><br>
+
+        <input type="submit" value="Enviar">
+    </form>
+
+    
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 RedeEcoLoop. Todos os direitos reservados.</p>
+        </div>
+
+</body>
+</html>
